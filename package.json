@@ -1,16 +1,18 @@
 {
   "name": "@wiwo/grunt-html2js",
   "description": "Compiles AngularJS templates to JavaScript",
-  "version": "0.3.8",
+  "version": "0.3.8-wiwo.1",
   "homepage": "https://github.com/rquadling/grunt-html2js",
   "author": {
     "name": "Karl Goldstein",
     "email": "karl.goldstein@gmail.com"
   },
-  "contributors": [{
-    "name": "Richard Quadling",
-    "email": "RQuadling@GMail.com"
-  }],
+  "contributors": [
+    {
+      "name": "Richard Quadling",
+      "email": "RQuadling@GMail.com"
+    }
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/rquadling/grunt-html2js.git"
